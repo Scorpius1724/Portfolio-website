@@ -18,3 +18,8 @@ with col2:
     Along with that, the website itself is developed using python and is one of my python projects.
     """)
     st.info(content)
+
+content2 = """
+Below are some of my projects made in python. Feel free to contact me!
+"""
+st.write(content2)
